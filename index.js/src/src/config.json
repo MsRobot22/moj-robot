@@ -1,0 +1,15 @@
+{
+  "ntfyTopic": "gryPS5-bot",
+  "ntfyServer": "https://ntfy.sh",
+  "checkIntervalHours": 2,
+  "games": [
+    {
+      "name": "Frostpunk 2",
+      "url": "https://store.playstation.com/pl-pl/product/EP4361-PPSA16608_00-0409272951672325"
+    },
+    {
+      "name": "Dead Space",
+      "url": "https://store.playstation.com/pl-pl/product/EP0006-PPSA03846_00-DSBDLXEDITION000"
+    }
+  ]
+}
